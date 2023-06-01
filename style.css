@@ -1,10 +1,12 @@
 
 
 body{
-background-color:lightskyblue;
+font-family: Calibri;
+background-color: white;
 text-align: center;
 }
 
 p{
+font-family: Calibri
 font-size: 20px;
 }
