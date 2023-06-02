@@ -3,7 +3,6 @@
 body{
 font-family: Calibri
 background-color: white
-text-align: center
 }
 
 title{
@@ -13,7 +12,6 @@ font-size: 4em
 
 intro{
 width: 70%
-text-align: center
 }
 
 text{
@@ -21,4 +19,5 @@ margin-upper: 10px
 padding: 10px
 font-family: Calibri
 font-size: 2em
+text-align: center
 }
