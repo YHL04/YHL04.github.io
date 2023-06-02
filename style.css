@@ -1,16 +1,13 @@
 
 
 body{
-padding: 10px;
-margin: 10px;
 font-family: Calibri;
 background-color: white;
 text-align: center;
 }
 
-p{
-padding: 10px;
-margin: 10px;
+intro{
+width: 70%;
 font-family: Calibri;
 font-size: 20px;
 }
