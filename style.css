@@ -3,15 +3,18 @@
 body{
 font-family: Calibri
 background-color: white
+text-align: center
 }
 
 title{
 font-family: Calibri
 font-size: 4em
+text-align: center
 }
 
 intro{
 width: 70%
+text-align: center
 }
 
 text{
