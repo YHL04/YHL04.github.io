@@ -14,11 +14,11 @@ font-family: Calibri
 intro{
 width: 70%;
 font-family: Calibri;
-font-size: 20px;
+font-size: 40;
 }
 
 description{
-padding: 10px;
-font-size: 20
 margin-upper: 10px;
+padding: 10px;
+font-size: 40;
 }
