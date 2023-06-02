@@ -1,24 +1,25 @@
 
 
-body{
+.body{
 font-family: Calibri;
 background-color: white;
 text-align: center;
 }
 
-title{
+.title{
 margin-upper: 20px;
 font-family: Calibri;
 font-size: 4em;
+
 }
 
-intro{
+.intro{
 width: 70%;
 font-family: Calibri;
 font-size: 2em;
 }
 
-description{
+.description{
 margin-upper: 10px;
 padding: 10px;
 font-size: 2em;
