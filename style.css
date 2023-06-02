@@ -15,12 +15,11 @@ font-size: 4em;
 
 .intro{
 width: 70%;
-font-family: Calibri;
-font-size: 2em;
 }
 
-.description{
+.text{
 margin-upper: 10px;
 padding: 10px;
+font-family: Calibri;
 font-size: 2em;
 }
