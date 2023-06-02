@@ -7,20 +7,13 @@ body{
         text-align: center;
 }
 
-title{
-        font-family: Calibri;
-        text-align: center;
-}
-
 intro{
-        width: 70%;
+        max-width: 400px;
+        font-family: Calibri;
         text-align: center;
 }
 
 text{
-        margin-upper: 10px;
-        padding: 10px;
         font-family: Calibri;
-        font-size: 2em;
         text-align: center;
 }
