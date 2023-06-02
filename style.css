@@ -1,26 +1,27 @@
 
 
 body{
-font-family: Calibri
-background-color: white
-text-align: center
+        background-color: hsl(218, 28%, 13%);
+        font-family: Calibri;
+        background-color: white;
+        text-align: center;
 }
 
 title{
-font-family: Calibri
-font-size: 4em
-text-align: center
+        font-family: Calibri;
+        font-size: 4em;
+        text-align: center;
 }
 
 intro{
-width: 70%
-text-align: center
+        width: 70%;
+        text-align: center;
 }
 
 text{
-margin-upper: 10px
-padding: 10px
-font-family: Calibri
-font-size: 2em
-text-align: center
+        margin-upper: 10px;
+        padding: 10px;
+        font-family: Calibri;
+        font-size: 2em;
+        text-align: center;
 }
