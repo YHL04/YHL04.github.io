@@ -1,19 +1,38 @@
 
 
+html, body {
+        height: 100%;
+}
+
+html {
+        display: table;
+        margin: auto;
+}
+
 body{
+        vertical-align: middle;
+
         background-color: hsl(218, 28%, 13%);
         color: white;
         font-family: Calibri;
         text-align: center;
+        max-width: 1000px;
 }
 
 intro{
-        max-width: 400px;
         font-family: Calibri;
         text-align: center;
+        margin-bottom: 4em;
 }
 
-text{
-        font-family: Calibri;
-        text-align: center;
+grid-container{
+        position: relative;
+        display: grid;
+        grid-template-columns: auto auto;
+        row-gap: 50px;
+}
+
+grid-item {
+	padding-right: 50px;
+	text-align: center;
 }
