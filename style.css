@@ -8,17 +8,18 @@ text-align: center;
 
 title{
 margin-upper: 20px;
-font-family: Calibri
+font-family: Calibri;
+font-size: 4em;
 }
 
 intro{
 width: 70%;
 font-family: Calibri;
-font-size: 40;
+font-size: 2em;
 }
 
 description{
 margin-upper: 10px;
 padding: 10px;
-font-size: 40;
+font-size: 2em;
 }
