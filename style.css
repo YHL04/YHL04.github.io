@@ -1,34 +1,29 @@
 
 
-html, body {
-        height: 100%;
+html * {
+    background-color: hsl(218, 28%, 13%);
+    color: white;
+    text-align: center;
+    font-family: Calibri;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-html {
-        display: table;
-        margin: auto;
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 20px;
+    align: center;
 }
 
-body{
-        background-color: hsl(218, 28%, 13%);
-        color: white;
-        font-family: Calibri;
-        max-width: 1000px;
+.grid-item {
+    padding: 20px;
+    text-align: center;
 }
 
-intro{
-        font-family: Calibri;
-        text-align: center;
-        margin-bottom: 4em;
+.grid-paragraphs {
+    font-size: 1em;
+    max-width: 400px;
 }
 
-container{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-auto-rows: minmax(100px, auto);
-}
-
-item{
-        padding-right: 50px;
-        text-align: center;
-}
