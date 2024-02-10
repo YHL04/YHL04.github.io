@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<link href="style.css" rel="stylesheet" type="text/css"/>
-<link href="button.css" rel="stylesheet" type="text/css"/>
-<link href="navbar.css" rel="stylesheet" type="text/css"/>
+<link href="static/style.css" rel="stylesheet" type="text/css"/>
+<link href="static/button.css" rel="stylesheet" type="text/css"/>
+<link href="static/navbar.css" rel="stylesheet" type="text/css"/>
 
 
 <html>
 
 <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="news.html">News</a></li>
-    <li><a href="about.html">About</a></li>
+    <li><a href="{{ url_for('home') }}">Home</a></li>
+    <li><a href="{{ url_for('news') }}">News</a></li>
+    <li><a href="{{ url_for('about') }}">About</a></li>
 </ul>
 
 <head>
